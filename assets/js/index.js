@@ -11,4 +11,3 @@ function bindEvents(){
         $article.addEventListener('click', Handler.handleProjectClick);
     });
 }
-

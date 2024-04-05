@@ -1,5 +1,7 @@
 import * as Handler from "./page-components/handlers.js";
 
+init();
+
 function init(){
     bindEvents();
 }
@@ -10,4 +12,3 @@ function bindEvents(){
     });
 }
 
-init();
